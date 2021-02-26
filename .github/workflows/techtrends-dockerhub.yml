@@ -42,4 +42,4 @@ jobs:
           file: ./techtrends/Dockerfile
           platforms: linux/amd64
           push: true
-          tags: kalyansworld1/mine4uda:latest
+          tags: kalyansworld1/techtrends:latest
